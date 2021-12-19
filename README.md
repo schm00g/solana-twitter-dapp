@@ -2,4 +2,4 @@
 
 ---WIP---
 
-Building a decentralized twitter clone using [this walkthrough](https://lorisleiva.com/create-a-solanals-dapp-from-scratch).
+Building a decentralized twitter clone using [this walkthrough](https://lorisleiva.com/create-a-solana-dapp-from-scratch).
